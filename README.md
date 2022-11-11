@@ -1,0 +1,2 @@
+# DotNet7-WorkerService-Kafka-FeatureFlags-AppInsights-SqlServer_VotacaoTecnologias
+Exemplo de consumo de mensagens de um tópico do Apache Kafka com votos de uma enquete sobre tecnologias em um Worker Service criado com .NET 7, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dados (registrando partições de origem) e um Dockerfile. Inclui monitoramento via Azure Application Insights, além de Feature Flags.
